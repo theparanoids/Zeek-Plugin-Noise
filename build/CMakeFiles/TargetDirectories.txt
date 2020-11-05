@@ -1,0 +1,14 @@
+/zeek-plugin-noise/build/CMakeFiles/install.dir
+/zeek-plugin-noise/build/CMakeFiles/install/strip.dir
+/zeek-plugin-noise/build/CMakeFiles/list_install_components.dir
+/zeek-plugin-noise/build/CMakeFiles/generate_outputs.dir
+/zeek-plugin-noise/build/CMakeFiles/bif-plugin-Zeek_NOISE-events.bif.dir
+/zeek-plugin-noise/build/CMakeFiles/install/local.dir
+/zeek-plugin-noise/build/CMakeFiles/dist.dir
+/zeek-plugin-noise/build/CMakeFiles/pac-noise.pac.dir
+/zeek-plugin-noise/build/CMakeFiles/Zeek-NOISE.linux-x86_64.dir
+/zeek-plugin-noise/build/CMakeFiles/edit_cache.dir
+/zeek-plugin-noise/build/CMakeFiles/bif-init-Zeek_NOISE.dir
+/zeek-plugin-noise/build/CMakeFiles/bro-plugin-Zeek_NOISE.dir
+/zeek-plugin-noise/build/CMakeFiles/copy-scripts-Zeek_NOISE.dir
+/zeek-plugin-noise/build/CMakeFiles/rebuild_cache.dir
