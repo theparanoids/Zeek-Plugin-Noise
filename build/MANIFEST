@@ -1,8 +1,0 @@
-Zeek_NOISE/__bro_plugin__
-Zeek_NOISE/lib/Zeek-NOISE.linux-x86_64.so
-Zeek_NOISE/lib/bif/events.bif.zeek
-Zeek_NOISE/lib/bif/__load__.zeek
-Zeek_NOISE/scripts/main.zeek
-Zeek_NOISE/scripts/dpd.sig
-Zeek_NOISE/scripts/__load__.zeek
-Zeek_NOISE/VERSION

@@ -1,1 +1,0 @@
-@load ./events.bif.zeek
